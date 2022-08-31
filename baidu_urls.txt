@@ -1,1 +1,1 @@
-http://example.com/2022/08/31/hello-world/
+http://example.com/posts/3eeb.html

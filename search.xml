@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>log1</title>
+      <link href="/posts/a9c6.html"/>
+      <url>/posts/a9c6.html</url>
+      
+        <content type="html"><![CDATA[<p>未解决：自定义鼠标不显示，调用到了却不显示，可能是cur文件格式问题</p><p>​pwa app下载不显示，原因未知，可能是manifest.json配置问题</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 开发记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/3eeb.html"/>
       <url>/posts/3eeb.html</url>

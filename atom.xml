@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-08-31T09:11:58.930Z</updated>
+  <updated>2022-08-31T13:59:53.269Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>log1</title>
+    <link href="http://example.com/posts/a9c6.html"/>
+    <id>http://example.com/posts/a9c6.html</id>
+    <published>2022-08-31T13:57:41.000Z</published>
+    <updated>2022-08-31T13:59:53.269Z</updated>
+    
+    <content type="html"><![CDATA[<p>未解决：自定义鼠标不显示，调用到了却不显示，可能是cur文件格式问题</p><p>​pwa app下载不显示，原因未知，可能是manifest.json配置问题</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;未解决：自定义鼠标不显示，调用到了却不显示，可能是cur文件格式问题&lt;/p&gt;
+&lt;p&gt;​				pwa app下载不显示，原因未知，可能是manifest.json配置问题&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="开发记录" scheme="http://example.com/tags/%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

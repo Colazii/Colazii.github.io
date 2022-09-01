@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Colazi&#39;s nest</title>
   
-  <subtitle>-rhythm is just a click away</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>rhythm is just a click away</subtitle>
+  <link href="https://colazii.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-09-01T09:57:23.801Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://colazii.github.io/"/>
+  <updated>2022-09-01T13:07:56.396Z</updated>
+  <id>https://colazii.github.io/</id>
   
   <author>
     <name>Colazi</name>
@@ -17,100 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>comment-test</title>
-    <link href="http://example.com/posts/dce9.html"/>
-    <id>http://example.com/posts/dce9.html</id>
-    <published>2022-09-01T17:24:53.000Z</published>
-    <updated>2022-09-01T09:57:23.801Z</updated>
+    <title>Hello World</title>
+    <link href="https://colazii.github.io/posts/24c0.html"/>
+    <id>https://colazii.github.io/posts/24c0.html</id>
+    <published>2022-09-01T19:37:13.000Z</published>
+    <updated>2022-09-01T13:07:56.396Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="测一下评论"><a href="#测一下评论" class="headerlink" title="测一下评论"></a>测一下评论</h3>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;测一下评论&quot;&gt;&lt;a href=&quot;#测一下评论&quot; class=&quot;headerlink&quot; title=&quot;测一下评论&quot;&gt;&lt;/a&gt;测一下评论&lt;/h3&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello-World</title>
-    <link href="http://example.com/posts/23ea.html"/>
-    <id>http://example.com/posts/23ea.html</id>
-    <published>2022-09-01T16:37:15.000Z</published>
-    <updated>2022-09-01T09:57:23.801Z</updated>
-    
-    <content type="html"><![CDATA[<p>Colazi’s Blog Finish v1.0.0</p>]]></content>
+    <content type="html"><![CDATA[<div class="timeline purple"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>开发日志</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-9-1 Colazi’s nest V1.0.0</p></div></div><div class='timeline-item-content'><h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a><strong>Hello World</strong></h1><hr><h3 id="用了整整两天，终于做完了这个博客。可以说是把能踩得坑都踩了一遍，不得不佩服做前端的兄弟。"><a href="#用了整整两天，终于做完了这个博客。可以说是把能踩得坑都踩了一遍，不得不佩服做前端的兄弟。" class="headerlink" title="用了整整两天，终于做完了这个博客。可以说是把能踩得坑都踩了一遍，不得不佩服做前端的兄弟。"></a>用了整整两天，终于做完了这个博客。可以说是把能踩得坑都踩了一遍，不得不佩服做前端的兄弟。</h3><h3 id="以后终于有个地方可以放东西了，放点图库，分享点音乐，记录下生活，也不用再去什么qq空间，很开心。"><a href="#以后终于有个地方可以放东西了，放点图库，分享点音乐，记录下生活，也不用再去什么qq空间，很开心。" class="headerlink" title="以后终于有个地方可以放东西了，放点图库，分享点音乐，记录下生活，也不用再去什么qq空间，很开心。"></a>以后终于有个地方可以放东西了，放点图库，分享点音乐，记录下生活，也不用再去什么qq空间，很开心。</h3><hr><h3 id="以下是V1-0-0版本实现的功能"><a href="#以下是V1-0-0版本实现的功能" class="headerlink" title="以下是V1.0.0版本实现的功能"></a>以下是V1.0.0版本实现的功能</h3><p><psw>以及未实现的</psw><br /><psw>而且我真的还会更新吗</psw><br /></p><div class="tip "><p>基于Hexo框架和GitHub托管，使用Butterfly主题的个人博客。</p></div><div class="tip success"><p>网页主体背景和底部背景透明，实现背景一图流。</p></div><div class="tip success"><p>aplayer插件添加网页播放器，以及缩小隐藏在右下角。</p></div><div class="tip success"><p>live2d插件生成网页看板娘<psw>（猫 ）</psw>。</p></div><div class="tip success"><p>PWA实现生成小型博客web app，可以部署到电脑或手机桌面，且文章更新时会提醒。<psw>好像网页端并不会提醒</psw></p></div><div class="tip success"><p>使用Github Action实现全自动部署。<psw>还不知道怎么用VScode和其交互</psw></p></div><div class="tip success"><p>Gitalk和Valine双重评论系统。</p></div><div class="tip success"><p>hexo-renderer-kramed渲染更多的外挂标签。<psw>都不会用</psw></p></div><hr><h3 id="下个版本想实现的？"><a href="#下个版本想实现的？" class="headerlink" title="下个版本想实现的？"></a>下个版本想实现的？</h3><div class="tip bell"><p>自建图床。</p></div><div class="tip bell"><p>添加自定义live2d模型。</p></div><div class="tip bell"><p>说说和在线聊天功能。</p></div><p> 该学习了，以上都是有生之年。（这里用密文标签怎么会使上面的分割线和标题失效？）</p></div></div></div><p>END~♪♫♬♩♪</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Colazi’s Blog Finish v1.0.0&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;div class=&quot;timeline purple&quot;&gt;&lt;div class=&#39;timeline-item headline&#39;&gt;&lt;div class=&#39;timeline-item-title&#39;&gt;&lt;div class=&#39;item-circle&#39;&gt;&lt;p&gt;开发日志&lt;/p&gt;
+&lt;/div</summary>
       
     
     
     
-    <category term="开发日志" scheme="http://example.com/categories/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
+    <category term="开发日志" scheme="https://colazii.github.io/categories/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
     
     
-    <category term="开发日志" scheme="http://example.com/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test1</title>
-    <link href="http://example.com/posts/c8b9.html"/>
-    <id>http://example.com/posts/c8b9.html</id>
-    <published>2022-09-01T13:35:05.000Z</published>
-    <updated>2022-09-01T09:57:23.801Z</updated>
-    
-    <content type="html"><![CDATA[<ol><li>带 <u>下划线</u> 的文本</li><li>带 <emp>着重号</emp> 的文本</li><li>带 <wavy>波浪线</wavy> 的文本</li><li>带 <del>删除线</del> 的文本</li><li>键盘样式的文本 <kbd>command</kbd> + <kbd>D</kbd></li><li>密码样式的文本：<psw>这里没有验证码</psw></li></ol><div class="audio"><audio controls preload><source src='https://music.163.com/song?id=4888328&userid=310391365' type='audio/mp3'>Your browser does not support the audio tag.</audio></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;ol&gt;
-&lt;li&gt;带 &lt;u&gt;下划线&lt;/u&gt; 的文本&lt;/li&gt;
-&lt;li&gt;带 &lt;emp&gt;着重号&lt;/emp&gt; 的文本&lt;/li&gt;
-&lt;li&gt;带 &lt;wavy&gt;波浪线&lt;/wavy&gt; 的文本&lt;/li&gt;
-&lt;li&gt;带 &lt;del&gt;删除线&lt;/del&gt; 的文本&lt;/li&gt;
-&lt;li&gt;键盘样式的文本 &lt;kbd&gt;</summary>
-      
-    
-    
-    
-    <category term="示例" scheme="http://example.com/categories/%E7%A4%BA%E4%BE%8B/"/>
-    
-    
-    <category term="test" scheme="http://example.com/tags/test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>log1</title>
-    <link href="http://example.com/posts/a9c6.html"/>
-    <id>http://example.com/posts/a9c6.html</id>
-    <published>2022-08-31T21:57:41.000Z</published>
-    <updated>2022-09-01T09:57:23.801Z</updated>
-    
-    <content type="html"><![CDATA[<p>未解决：自定义鼠标不显示，调用到了却不显示，可能是cur文件格式问题</p><p>​                pwa app下载不显示，原因未知，可能是manifest.json配置问题</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;未解决：自定义鼠标不显示，调用到了却不显示，可能是cur文件格式问题&lt;/p&gt;
-&lt;p&gt;​                pwa app下载不显示，原因未知，可能是manifest.json配置问题&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="开发记录" scheme="http://example.com/tags/%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/"/>
+    <category term="hexo" scheme="https://colazii.github.io/tags/hexo/"/>
     
   </entry>
   

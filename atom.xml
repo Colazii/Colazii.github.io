@@ -6,7 +6,7 @@
   <link href="https://colazii.github.io/atom.xml" rel="self"/>
   
   <link href="https://colazii.github.io/"/>
-  <updated>2022-09-01T13:11:15.218Z</updated>
+  <updated>2022-09-01T14:07:45.255Z</updated>
   <id>https://colazii.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://colazii.github.io/posts/24c0.html"/>
     <id>https://colazii.github.io/posts/24c0.html</id>
     <published>2022-09-01T19:37:13.000Z</published>
-    <updated>2022-09-01T13:11:15.218Z</updated>
+    <updated>2022-09-01T14:07:45.255Z</updated>
     
     <content type="html"><![CDATA[<div class="timeline purple"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>开发日志</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-9-1 Colazi’s nest V1.0.0</p></div></div><div class='timeline-item-content'><h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a><strong>Hello World</strong></h1><hr><h3 id="用了整整两天，终于做完了这个博客。可以说是把能踩得坑都踩了一遍，不得不佩服做前端的兄弟。"><a href="#用了整整两天，终于做完了这个博客。可以说是把能踩得坑都踩了一遍，不得不佩服做前端的兄弟。" class="headerlink" title="用了整整两天，终于做完了这个博客。可以说是把能踩得坑都踩了一遍，不得不佩服做前端的兄弟。"></a>用了整整两天，终于做完了这个博客。可以说是把能踩得坑都踩了一遍，不得不佩服做前端的兄弟。</h3><h3 id="以后终于有个地方可以放东西了，放点图库，分享点音乐，记录下生活，也不用再去什么qq空间，很开心。"><a href="#以后终于有个地方可以放东西了，放点图库，分享点音乐，记录下生活，也不用再去什么qq空间，很开心。" class="headerlink" title="以后终于有个地方可以放东西了，放点图库，分享点音乐，记录下生活，也不用再去什么qq空间，很开心。"></a>以后终于有个地方可以放东西了，放点图库，分享点音乐，记录下生活，也不用再去什么qq空间，很开心。</h3><hr><h3 id="以下是V1-0-0版本实现的功能"><a href="#以下是V1-0-0版本实现的功能" class="headerlink" title="以下是V1.0.0版本实现的功能"></a>以下是V1.0.0版本实现的功能</h3><p><psw>以及未实现的</psw><br /><psw>而且我真的还会更新吗</psw><br /></p><div class="tip "><p>基于Hexo框架和GitHub托管，使用Butterfly主题的个人博客。</p></div><div class="tip success"><p>网页主体背景和底部背景透明，实现背景一图流。</p></div><div class="tip success"><p>aplayer插件添加网页播放器，以及缩小隐藏在左下角。</p></div><div class="tip success"><p>live2d插件生成网页看板娘<psw>（猫 ）</psw>。</p></div><div class="tip success"><p>PWA实现生成小型博客web app，可以部署到电脑或手机桌面，且文章更新时会提醒。<psw>好像网页端并不会提醒</psw></p></div><div class="tip success"><p>使用Github Action实现全自动部署。<psw>还不知道怎么用VScode和其交互</psw></p></div><div class="tip success"><p>Gitalk和Valine双重评论系统。</p></div><div class="tip success"><p>hexo-renderer-kramed渲染更多的外挂标签。<psw>都不会用</psw></p></div><hr><h3 id="下个版本想实现的？"><a href="#下个版本想实现的？" class="headerlink" title="下个版本想实现的？"></a>下个版本想实现的？</h3><div class="tip bell"><p>自建图床。</p></div><div class="tip bell"><p>添加自定义live2d模型。</p></div><div class="tip bell"><p>说说和在线聊天功能。</p></div><p> 该学习了，以上都是有生之年。（这里用密文标签怎么会使上面的分割线和标题失效？）</p></div></div></div><p>END~♪♫♬♩♪</p>]]></content>
     
